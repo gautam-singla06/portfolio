@@ -112,22 +112,6 @@ Current Status:
 
 ---
 
-## Current Learning Path
-
-```text
-Digital Electronics
-        ↓
-Semiconductor Technology
-        ↓
-VLSI Fundamentals
-        ↓
-Chip Design Concepts
-        ↓
-Industry-Level VLSI Skills
-```
-
----
-
 ## Portfolio Website
 
 🔗 Live Portfolio
@@ -142,7 +126,7 @@ GitHub:
 https://github.com/gautam-singla06
 
 LinkedIn:
-(Add Your LinkedIn URL)
+https://www.linkedin.com/in/gautam-singla-a82962381/
 
 ---
 
